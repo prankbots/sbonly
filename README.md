@@ -1,4 +1,4 @@
-# SELFBOT WAR
+# SELFBOT ONLY
 [![PrankBots](https://img.fireden.net/v/image/1461/72/1461725093324.gif "Prankbots")](https://bit.ly/2xbVxlh)
 
 ## VPS SERVER
@@ -6,18 +6,18 @@
 ```
 apt-get install python3
 apt-get install python3-tz
-pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0
+pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0 ffmpy youtube-dl pafy 
 ```
 ## TERMINAL CLOUDS
 ```
 sudo apt-get install python3
 sudo apt-get install pyhton3-tz
-sudo pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0
+sudo pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0 ffmpy youtube-dl pafy 
 ```
 - runner
 ```
-cd botwar
-python3 botwar.py
+cd sbonly
+python3 sbonly.py
 ```
 *LINE Messaging's private API*
 *Modifed by: PrankBot*
