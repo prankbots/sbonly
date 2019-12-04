@@ -32,7 +32,9 @@ python3 sbonly.py
 
 - LINE UPDATE
 september 2018
-# [TUTORIAL](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
+_______________________________________________________________________
+| [TUTORIAL](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)|
+_______________________________________________________________________
 V3.1 last update::
 - oktober/2018
 # official bots
