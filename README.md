@@ -32,8 +32,8 @@ python3 sbonly.py
 
 - LINE UPDATE
 september 2018
-| LIST | ----------------------------------------------------------- |
-| ---- | ``` dont forget to subscribe my youtube channel ``` |
+| LIST | ``` dont forget to subscribe my youtube channel ``` |
+| ---- | --------------------------------------------------------------- |
 | [TUTORIAL](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ) |
 | --------------------------------------------------------------- |
 V3.1 last update::
