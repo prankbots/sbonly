@@ -9,6 +9,7 @@
 | 2 | [LINEPY](linepy) |
 | 3 | [ABOUTS.JSON](Abouts.json) |
 | 4 | [PRANKBOTS.JSON](PrankBots.json) |
+| 5 | [SBONLY](sbonly.py) |
 | V3.1 last update | 2018 october |
 CREATED BY | ACIL PRANKBOTS
 ## VPS SERVER
