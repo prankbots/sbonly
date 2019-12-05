@@ -7,7 +7,8 @@
 | FILE | ``` type to open file ``` |
 | 1 | [AKAD](akad) |
 | 2 | [LINEPY](linepy) |
-| 3 | [PRANKBOTS.JSON](prankbots.json) |
+| 3 | [ABOUTS.JSON](Abouts.json) |
+| 4 | [PRANKBOTS.JSON](PrankBots.json) |
 | V3.1 last update | 2018 october |
 CREATED BY | ACIL PRANKBOTS
 ## VPS SERVER
