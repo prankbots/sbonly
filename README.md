@@ -5,8 +5,9 @@
 | OFFICIAL | <a href="https://line.me/R/ti/p/%40gnh2780p"><img height="36" border="0" alt="PrankBots" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a> |
 | ADDMIN | <a href="https://line.me/R/ti/p/~adiputra.95"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a> |
 | FILE | ``` type to open file ``` |
-| 1 | [AKAD](step0.md) |
-| 2 | [LINEPY](step1.md) |
+| 1 | [AKAD](akad) |
+| 2 | [LINEPY](linepy) |
+| 3 | [PRANKBOTS.JSON](prankbots.json) |
 | V3.1 last update | 2018 october |
 CREATED BY | ACIL PRANKBOTS
 ## VPS SERVER
